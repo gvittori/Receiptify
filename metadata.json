@@ -1,0 +1,10 @@
+{
+  "name": "Supermarket Receipt Reader & Exporter",
+  "description": "Read supermarket receipts using AI OCR, view totals, store names, and export to JSON or spreadsheets.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
